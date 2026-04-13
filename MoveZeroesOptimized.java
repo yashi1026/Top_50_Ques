@@ -1,3 +1,4 @@
+//Optimized – O(n)
 class MoveZeroesOptimized {
 
     public void moveZeroes(int[] nums) {
