@@ -1,3 +1,4 @@
+//Optimized – O(n)
 class MaxSubarray {
 
     public int maxSubArray(int[] nums) {
