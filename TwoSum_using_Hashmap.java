@@ -1,3 +1,4 @@
+Optimized – O(n)
 import java.util.HashMap;
 
 class TwoSum_using_Hashmap {
